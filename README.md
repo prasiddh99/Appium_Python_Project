@@ -72,7 +72,7 @@ Appium_Framework/
 
 - Mobile User Login Validation
 - Product Browsing & Selection
-- Add Products From Cart
+- Add Products To Cart
 - Checkout & Order Placement
 - End-to-End Purchase Flow
 - Screenshot Capture on Failure
