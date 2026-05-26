@@ -35,9 +35,7 @@ Mobile E-Commerce Application
 - Pytest Fixtures
 - HTML Reporting
 - Screenshot Capture on Failures
-- Data Driven Testing
 - Modular Framework Structure
-- Easy Scalability & Maintenance
 - Android Mobile Automation
 
 ---
@@ -172,10 +170,11 @@ git clone https://github.com/prasiddh99/Appium_Python_Project.git
 
 - Jenkins CI/CD Integration
 - Parallel Mobile Execution
-- Cross Device Testing
 - Allure Reporting
 - Hybrid App Automation
 - API + Mobile Automation Integration
+- Data Driven Testing
+- Automated Test Cases
 
 ---
 
