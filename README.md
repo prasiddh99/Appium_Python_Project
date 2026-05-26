@@ -174,7 +174,7 @@ git clone https://github.com/prasiddh99/Appium_Python_Project.git
 - Hybrid App Automation
 - API + Mobile Automation Integration
 - Data Driven Testing
-- Automated Test Cases
+- Automate Test Cases
 
 ---
 
