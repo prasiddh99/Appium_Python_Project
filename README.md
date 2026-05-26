@@ -50,24 +50,16 @@ Appium_Framework/
 ├── Ecommerce_Framework/
 │
 ├── pages/
-│   ├── base_page.py
-│   ├── login_page.py
-│   ├── products_page.py
 │   ├── cart_page.py
-│   ├── checkout_page.py
-│   └── confirmation_page.py
+│   ├── home_page.py
+│   ├── products_page.py
+│   ├── webview_page.py
 │
 ├── tests/
-│   ├── test_login.py
-│   ├── test_products.py
-│   ├── test_cart.py
-│   ├── test_checkout.py
-│   └── test_end_to_end.py
+│   ├── test_e2e_hybrid.py
 │
 ├── utilities/
-│   ├── base_class.py
-│   ├── desired_capabilities.py
-│   └── test_data.py
+│   ├── base_page.py
 │
 ├── screenshots/
 ├── reports/
