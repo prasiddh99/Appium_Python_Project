@@ -125,7 +125,7 @@ pytest
 ## Run Specific Test File
 
 ```bash
-pytest tests/test_login.py
+pytest tests/test_e2e_hybrid.py
 ```
 
 ## Run With HTML Report
